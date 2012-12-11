@@ -1,7 +1,7 @@
 zillow-test
 ===========
 
-<img src="zillow-test/blob/master/problems.jpg?raw=true" />
+<img src="/bernerbrau/zillow-test/blob/master/problems.jpg?raw=true" />
 
 The source in this archive contains solutions to the questions contained in problems.jpg
 in this folder, along with unit tests to verify their correctness. Assuming Java 6 and
